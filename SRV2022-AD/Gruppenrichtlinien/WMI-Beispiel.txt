@@ -1,3 +1,0 @@
-Select * From Win32_OperatingSystem where Buildnumber = 10240
-
-***Fragt nach dem Betriebssystem win10***
